@@ -279,12 +279,15 @@
     "@fortawesome/fontawesome-free": "^5.15.0",
     "@hot-loader/react-dom": "^16.13.0",
     "@reduxjs/toolkit": "^1.4.0",
+    "@types/socket.io-client": "^1.4.34",
     "@types/styled-components": "^5.1.4",
+    "@types/websocket": "^1.0.1",
     "connected-react-router": "^6.6.1",
     "electron-debug": "^3.1.0",
     "electron-log": "^4.2.4",
     "electron-updater": "^4.3.4",
     "history": "^4.7.2",
+    "node-fetch": "^2.6.1",
     "react": "^16.13.1",
     "react-desktop": "^0.3.9",
     "react-dom": "^16.12.0",
@@ -294,8 +297,10 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "regenerator-runtime": "^0.13.5",
+    "socket.io-client": "^3.0.3",
     "source-map-support": "^0.5.19",
-    "styled-components": "^5.2.1"
+    "styled-components": "^5.2.1",
+    "websocket": "^1.0.32"
   },
   "devEngines": {
     "node": ">=7.x",

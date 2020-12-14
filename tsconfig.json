@@ -30,5 +30,8 @@
     "app/renderer.prod.js",
     "app/dist",
     "dll"
+  ],
+  "include": [
+    "decs.d.ts"
   ]
 }
