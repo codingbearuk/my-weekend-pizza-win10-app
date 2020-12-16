@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { io } from 'socket.io-client';
+import io from 'socket.io-client';
 
 import View from './Home.view';
 import { Order } from './Home.types';
